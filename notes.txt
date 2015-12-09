@@ -1,0 +1,625 @@
+New Music
+
+Drop down navigation showing the 5 categories
+
+--
+
+Most Played
+
+Most Played – Drop down navigation showing 5 categories 
+ 
+Through the 5 categories below the user will be able to sort through the site most  
+ 
+played tracks. 
+ 
+All 
+ 
+Originals 
+ 
+Remixes 
+ 
+Cover Songs 
+ 
+DJ Mixes 
+ 
+When the cursor is over one of the categories additional sorting options will open 
+ 
+All - When cursor is over “all” a sub category will open to select the time frame you  
+ 
+would like to view the most played tracks for the entire site 
+ 
+Example: All - Past 24 Hours 
+ 
+                        Past 7 Days 
+ 
+                        Past Month 
+ 
+                        Past Year 
+ 
+4 of the 5 categories (Originals/Remixes/Cover Songs/DJ Mixes) will have sub  
+ 
+categories. The user will be able to sort “All”of that category or by the genres of that  
+ 
+category. 
+ 
+When cursor is over “all” or the genre they will be able to select the time frame you  
+ 
+would like to view the Most Played tracks 
+ 
+Originals ————- All 
+ 
+Remixes                    (genre) 
+ 
+Cover Songs             (genre) ——Past 24 Hours 
+ 
+DJ Mixes                  (genre)         Past 7 Days 
+ 
+                                  (genre)         Past Month 
+ 
+                                                      Past Year 
+ 
+The Charts will display with the # of the position they currently hold located all the  
+ 
+way to the left just like DMP charts.
+
+--
+
+Top Downloads
+
+Drop down navigation showing 5 selections 
+ 
+Through the 5 selections below the user will be able to sort through the top  
+ 
+When the cursor is over one of the selections below it will have another box open  
+ 
+revealing ALL and the genres… 
+ 
+(Genres to be announced later) 
+ 
+One of the five categories is “all” Using the category “All” the user will be able to  
+ 
+view the Top Downloads for all the music on the site via the following 4 options:  
+ 
+All —————— Last 24 Hours 
+ 
+Originals                This Week 
+ 
+Remixes                 This Month 
+ 
+Cover Songs           This Year 
+ 
+4 of the 5 categories (Originals/Remixes/Cover Songs/DJ Mixes) will have sub  
+ 
+categories. The user will be able to sort “All”of that category or by the genres of that  
+ 
+When cursor is over “all” or the genre they will be able to select the time frame they  
+ 
+would like to view the Top Downloaded tracks.
+
+--
+
+Top Rated
+
+Will work identical to the “Most Played &amp; “Top Downloads” section BUT 
+ 
+the order the songs will display will be based off the user favoriting the track by  
+ 
+clicking the “favorite” on the track page. 
+ 
+Must be a user to rate a song = Rating a song is favoriting a song 
+ 
+The Charts will display with the # of the position they currently hold located all the  
+ 
+way to the left just like DMP charts.
+
+--
+
+Contact Us
+
+Same as Digital Music Pool page
+
+--
+
+FAQ
+
+Plane Text page, question will be in bold, answer in normal none bold font.
+
+--
+
+Upload
+
+Select File (Mp3) [MB Max?] 
+ 
+Preview: Will default on Full Song with cutting a preview optional. The following  
+ 
+options will be in a drop down box: 
+ 
+Full Song 
+ 
+0:05 - 1:05 
+ 
+0:05 - 2:05 
+ 
+0:30 - 2:30 
+ 
+0:30 - 3:30 
+ 
+0:45 - 3:45 
+ 
+0:45 - 4:45 
+ 
+Upload Image (Capable to upload multiple file types) 
+ 
+Progress Bar (Showing % uploaded) 
+ 
+Title (Should be grabbed from file name and display while uploading) can be edited  
+ 
+if need be. 
+ 
+Track Type Please select one category that best suits your upload to help our user  
+ 
+discover your sound. 
+ 
+1. Original Track (?) 
+ 
+2. Remix (?) 
+ 
+3. DJ Mix(?) 
+ 
+4. Cover Song (?) 
+ 
+(?) will display text when cursor is over it explaining each selection 
+ 
+Clean Or Explicit - Optional for the user to click off (Will be in form of a checkbox)  
+ 
+Will show up on song page if selected. 
+ 
+Tagging 
+ 
+If a remix is selected I want a box to open up for them to type in the original song  
+ 
+title, it will be as if they are tagging the remix to that title. This will be similar to how  
+ 
+hash tagging works on social media (there can be space in between words). As the  
+ 
+user begins to type the title similar titles will begin to populate under the box. Any  
+ 
+other users that uploads remixes to the same title will show up on the bottom of the  
+ 
+tracks page. Similar to how DMP works when we add remixes to a pre existing  
+ 
+original track. they will show up at the bottom of the track page in order from most  
+ 
+popular to least popular. Popularity is determined by how many downloads or clicks  
+ 
+the download button has received as it can either be a direct download or a link to a  
+ 
+secondary site to download the track. 1 download or click per IP address. 
+ 
+If a cover song is selected i would also like the same tagging option offered, if a cover  
+ 
+song has the same title, they will show up at the bottom of the track page in ranked  
+ 
+order from most popular to least popular. Popularity is determined by how many  
+ 
+downloads or clicks the download button has received as it can either be a direct  
+ 
+download or a link to a secondary site to download the track. 1 download or click  
+ 
+per IP address. 
+ 
+Note: the user will only be allowed to tag 1 song per upload. 
+ 
+Genre (Drop down box displaying genres) depending on the Track Type category  
+ 
+that is selected the genres will be different 
+ 
+Download Users will have 2 options to offer there track for download. If they do not  
+ 
+select either option the track will not be available for download. 
+ 
+1. They can offer direct downloads from Zoundstream (Limited to 100 for non  
+ 
+subscribers) After 100 times the user will not be able to offer there track for  
+ 
+direct download from our server unless they subscribe. An upgrade button  
+ 
+should display near the download option. 
+ 
+2. User will enter a link to a secondary site. 
+ 
+The user will be able to name the download button [Optional] (It will default on the  
+ 
+word “download” if the user does not enter anything. 
+ 
+Private (If the user selects private the track will not show up in the new release  
+ 
+section, most downloaded, top downloads, top rated, or search engine. The uploader  
+ 
+will be given a link to give to the track to individual people they wish to) [Optional]  
+ 
+THIS CAN BE MOVED TO 2ND RELEASE IF TIME CONSUMING 
+ 
+Description (Text) [Optional] 
+ 
+Meta tags (user must enter at least one) 
+ 
+Note: (when the track is uploaded the preview should be converted to 96kbs) Full  
+ 
+track that is uploaded will play. 
+ 
+SAVE TRACK – Cancel (If cancel is selected please confirm they would like to  
+ 
+cancel)
+
+--
+
+Sign Up
+
+Name (As it will appear on profile) 
+ 
+Email 
+ 
+Password 
+ 
+Re-enter Password 
+ 
+Promo Code (Optional) 
+ 
+Accept terms and condition 
+ 
+Multiple Subscriptions will be optional and need to be discussed before i can write  
+ 
+up details. 
+ 
+Note: Sign up using Facebook and twitter will be in second release.
+
+--
+
+My Accont
+
+When the user is logged in there should be an “Upload” button visible on every page 
+ 
+of the site on or near the toolbar 
+ 
+My Account - When the user logs in there will be a button called “My Account” on  
+ 
+the toolbar 
+ 
+When they click “My Account” a drop down navigation will open.
+
+--
+
+Search
+
+When the user searches i would like for the search box to populate as they 
+ 
+type, similar to how searching works on amazon.com
+
+--
+
+All
+
+-If clicked will take you to a page displaying the most recent uploads of the entire 
+ 
+ 
+Page Layout 2 - for tracks under the category ALL. The layout will be identical to 
+ 
+Layout 1 but with the addition below in BOLD 
+ 
+Album Artwork (If clicked a larger version of the artwork will open [similar to how  
+ 
+Facebook pictures display when clicked]) 
+ 
+Play Button 
+ 
+Title - (Title will link to song page) 
+ 
+Artist - (Artist name will link to profile page) 
+ 
+Genre - (Will link to genre page) *Genre column will only display when “all” tab is  
+ 
+clicked 
+ 
+Category - link to the category the track belongs to (New Originals/New  
+ 
+Remixes/New Covers/New DJ Mixes) **ONLY addition to layout 1. 
+ 
+Download Button 
+ 
+Sharing Buttons (Facebook, Twitter, Google plus, Email)
+
+--
+
+View Profile
+
+Profile Picture - Display profile picture to the top left 
+ 
+Bio to the right of the profile picture (No character limit) 
+ 
+Message - Under the profile picture to the left will also be a “message” button this  
+ 
+allow other users to message each other. Users will not be able to send more the 1  
+ 
+message every 3 minutes. 
+ 
+Follow - To the right of the message button will be a “follow” button for other users  
+ 
+to follow this member and there activity. 
+ 
+Users Tracks - The center of the page under the bio will consist of tracks uploaded  
+ 
+by the user. If the user has not uploaded any tracks it will display tracks that the  
+ 
+user has liked. Two tabs will separate the two “User Name’s Tracks” “User Name’s  
+ 
+Favorited” If the tab “User Name’s Tracks” is not populated, then the “User Name’s  
+ 
+Favorited” tab will display on default if the user has any favorite tracks. 
+ 
+Both list will default on most recently added, with a drop down navigation box  
+ 
+making it possible to sort by: 
+ 
+Most recently added 
+ 
+Most played (all time) 
+ 
+Most played (past 7 days) 
+ 
+Most played (past 30 days) 
+ 
+Top download (all time) 
+ 
+Top download (past 7 days) 
+ 
+Top download (past 30 days) 
+ 
+Top Rated (all time) 
+ 
+Top Rated (past 7 days) 
+ 
+Top Rated (past 30 days)
+
+--
+
+Originals
+
+Page Layout - for tracks under category (Originals/Remixes/Cover Songs/DJ Mixes) 
+ 
+. Layout will be identical for these 4 categories. The layout will be similar to DMP  
+ 
+song layout. 
+ 
+Album Artwork (If clicked a larger version of the artwork will open [similar to how  
+ 
+Facebook pictures display when clicked]) 
+ 
+Play Button 
+ 
+Title (Title will link to song page) 
+ 
+Artist (Artist name will link to profile page) 
+ 
+Genre (Will link to genre page) *Genre column will only display when “all” tab is  
+ 
+clicked 
+ 
+Download Button 
+ 
+Sharing Buttons (Facebook, Twitter, Google plus, Email)
+
+--
+
+Remixes
+
+Page Layout - for tracks under category (Originals/Remixes/Cover Songs/DJ Mixes) 
+ 
+. Layout will be identical for these 4 categories. The layout will be similar to DMP  
+ 
+song layout. 
+ 
+Album Artwork (If clicked a larger version of the artwork will open [similar to how  
+ 
+Facebook pictures display when clicked]) 
+ 
+Play Button 
+ 
+Title (Title will link to song page) 
+ 
+Artist (Artist name will link to profile page) 
+ 
+Genre (Will link to genre page) *Genre column will only display when “all” tab is  
+ 
+clicked 
+ 
+Download Button 
+ 
+Sharing Buttons (Facebook, Twitter, Google plus, Email)
+
+--
+
+Followers
+
+will take user to a page showing a list of everyone that follows them. 
+ 
+First user that started following them to the most recent user that started following  
+ 
+them - will be the order they will show in. Small profile picture with name (Name  
+ 
+and picture will link to profile) to the right of the picture, the date they started  
+ 
+following them to the right of that. To the left of the profile picture the # follower  
+ 
+they were will display. Also need to display the # of followers the user that has  
+ 
+begun following currently has.
+
+--
+
+Cover Songs
+
+Page Layout - for tracks under category (Originals/Remixes/Cover Songs/DJ Mixes) 
+ 
+. Layout will be identical for these 4 categories. The layout will be similar to DMP  
+ 
+song layout. 
+ 
+Album Artwork (If clicked a larger version of the artwork will open [similar to how  
+ 
+Facebook pictures display when clicked]) 
+ 
+Play Button 
+ 
+Title (Title will link to song page) 
+ 
+Artist (Artist name will link to profile page) 
+ 
+Genre (Will link to genre page) *Genre column will only display when “all” tab is  
+ 
+clicked 
+ 
+Download Button 
+ 
+Sharing Buttons (Facebook, Twitter, Google plus, Email)
+
+--
+
+Following
+
+will take user to a page showing a list of every user they follow. First 
+ 
+follower to the most recent user they followed - will be the order they will show in.  
+ 
+Small profile picture with name (Name and picture will link to profile) to the right of  
+ 
+the picture, the date they started started following them to the right of that. To the  
+ 
+left of the profile picture the # follow they were. Also need to display the # of  
+ 
+followers the users they are following have
+
+--
+
+Dj Mixes
+
+Page Layout - for tracks under category (Originals/Remixes/Cover Songs/DJ Mixes) 
+ 
+. Layout will be identical for these 4 categories. The layout will be similar to DMP  
+ 
+song layout. 
+ 
+Album Artwork (If clicked a larger version of the artwork will open [similar to how  
+ 
+Facebook pictures display when clicked]) 
+ 
+Play Button 
+ 
+Title (Title will link to song page) 
+ 
+Artist (Artist name will link to profile page) 
+ 
+Genre (Will link to genre page) *Genre column will only display when “all” tab is  
+ 
+clicked 
+ 
+Download Button 
+ 
+Sharing Buttons (Facebook, Twitter, Google plus, Email)
+
+--
+
+Edit/Delete Tracks
+
+Link the user to a page displaying all tracks with the ability to 
+ 
+select the track they need to edit or delete. All fields that were uploaded should be  
+ 
+editable (Title, Description, Download link, Image, private, meta tags) The track  
+ 
+should NOT be replaceable as you can on DMP. In  future update we will allow  
+ 
+subscribing user to replace the track. 
+ 
+ 
+Track Page 
+ 
+Media Player – Will go under the tool bar 
+ 
+Play/Pause - A big play/pause button to the left of the player 
+ 
+Title &amp; Artist - across top of the media player. 
+ 
+Track image - under the right side of the media player 
+ 
+Release date - under the track image 
+ 
+Report copy right infringement - will link to a secondary page where the  
+ 
+individual will send information as to who the track belongs to. More information  
+ 
+will follow on this but it will be similar to a “contact us” page. 
+ 
+Download button - If download link is added it will display in the form of a button  
+ 
+above the right side of the media player  
+ 
+Everytime someone clicks the download button, it will tally as a download, 1  
+ 
+download tally per IP address click for a particular track – this is the data the “Top  
+ 
+Downloads” section will use to be populated from. 
+ 
+Favorite Button – only logged in user can favorite a song, 1 favorite per user per  
+ 
+song. Favorite button will go under right side of player. The data from favoriting a  
+ 
+song is what will be used to populate the “Top Ranked” section 
+ 
+Stats - plays, downloads, likes - will go to the right of the player 
+ 
+Description - will also display under the player to the right of the song image 
+ 
+Sharing – Facebook (I want the song to be able to play directly on facebook),  
+ 
+twitter,  email. Buttons will be located under the player 
+ 
+Similar tracks - tracks that were tagged upon upload (can only be remixes or cover  
+ 
+song) will be located at the bottom of the page. 
+ 
+List will default on most played (all time), with a drop down navigation box making  
+ 
+it possible to sort by: 
+ 
+Most played (all time) 
+ 
+Most played (past 7 days) 
+ 
+Most played (past 30 days) 
+ 
+Top download (all time) 
+ 
+Top download (past 7 days) 
+ 
+Top download (past 30 days) 
+ 
+Top Rated (all time) 
+ 
+Top Rated (past 7 days) 
+ 
+Top Rated (past 30 days) 
+ 
+Most recently added 
+ 
+The Charts will display with the # of the position they currently hold located all the  
+ 
+way to the left just like DMP charts.
+
+--
+
+Stats Section
+
+Should work just as DMP stats minus showing feedback. Should 
+ 
+Title with plays/downloads/rating for each track the user has uploaded.

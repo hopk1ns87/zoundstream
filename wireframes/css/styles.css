@@ -1,0 +1,364 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding-top:50px;
+    color: #666;
+    }
+.header-container{
+    width: 100%;
+    height: 450px;
+    border-top:0;
+    border-right:0;
+    position: relative;
+    background-color: #000;
+}
+.border{
+    background-color: #ccc;
+    height:3px;
+}
+.border-sm{
+      background-color: #ccc;
+    height:1px;
+    margin-bottom:30px;
+}
+.border-reverse{
+    background-color: #ccc;
+    height:3px;
+    margin-bottom:60px;
+}
+.pad-top-20{
+    padding-top:20px;
+}
+
+
+
+/*
+==========
+Global
+==========
+ */
+
+.navbar{
+    border-radius: 0px;
+    margin-bottom:0;
+    background-color:#fff;
+}
+.navbar-brand img{
+    height:100%;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
+    color: #7f17ea;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #7f17ea;
+}
+.form-control{
+    height:44px;
+    padding: 6px 22px;
+    border-radius: 0;
+}
+.btn {
+    padding: 11px 12px;
+    border-radius: 0;
+}
+
+
+/*
+MEDIA PLAYER
+ */
+ .media-player {
+    height: 200px;
+    margin-bottom: 15px;
+    background-color: #1c2022;
+    color: #fff;
+    background-image: url(http://placehold.it/1140x200?text=Audio%20Player);
+}
+.song-title {
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 100;
+    padding-top: 25px;
+}
+.artist {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 100;
+}
+.player-controls {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 30px;
+    padding: 5px;
+    background-color: rgba(255,255,255,.2);
+}
+
+
+/*HOMEPAGE CONTENT*/
+.has-header{
+    padding-top:60px;
+}
+.gif-container{
+    background-image: url(http://placehold.it/1240x450/333?text=placeholder);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    position: absolute;
+    top:0;
+    left: 0;
+    height:100%;
+    width: 100%;
+    overflow: hidden;
+    background-color: #222;
+}
+
+.logo-container{
+    position: relative;
+    height:150px;
+    text-align: center;
+    padding-top:60px;
+}
+
+.logo-container img{
+    height: 100%;
+}
+
+.header-container h4{
+    position: relative;
+    text-align: center;
+    color: #fff;
+    padding-top:0px;
+    padding-bottom:15px;
+    width: 100%;
+    text-transform: uppercase;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 400;
+}
+.header-container h5{
+    position: relative;
+    text-align: center;
+    color: #fff;
+    padding-top:30px;
+    padding-bottom:15px;
+    width: 100%;
+    text-transform: uppercase;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 400;
+}
+.search-container{
+    position:absolute;
+    top:10%;
+}
+ p{
+    line-height:2em;
+}
+.has-header{
+    text-transform: none;
+    color: #999;
+}
+.has-header h3{
+    font-weight: 300;
+    font-size: 24px;
+    margin-bottom:30px;
+}
+.bg-gray{
+    background-color: #ededed;
+    height: 100%;
+}
+.icon{
+    text-align: center;
+    font-size:30px;
+    padding:15px;
+}
+.col-md-4 > h5 {
+    margin-bottom:30px;
+}
+.bg-light-gray{
+    background-color: #efefef;
+    padding:15px;
+    min-height:200px;
+}
+.dj-parallax{
+    height: 300px;
+    background-image: url(../images/dj-bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    margin:60px 0;
+    padding-top:100px;
+    background-repeat: no-repeat;
+}
+.price{
+    color: #fff;
+    float: left;
+}
+.divider{
+    width: 3px;
+    background-color: #fff;
+    height:100%;
+    float: left;
+}
+.signup{
+ text-align: center;
+}
+.btn-dmp{
+    background-color: transparent;
+    border:3px solid #fff;
+    padding:15px 30px;
+    color: #fff;
+}
+.btn-dmp:hover{
+    background-color: #ffffff;
+    border:3px solid #fff;
+    color: #232323;
+}
+
+.sub-page{
+    height:250px;
+}
+.sub-page .sub-page-title{
+    font-size:60px;
+    font-weight:100;
+    text-align: center;
+    padding-top:100px;
+}
+.newMusic{
+    background-image: url(http://placehold.it/1940x200?text=%20);
+    opacity: .5
+}
+
+/*
+==========
+LEFT SIDE
+==========
+*/
+.controls{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.carousel-control{
+    position: relative;
+}
+.carousel-control.right, .carousel-control.left{
+    background: transparent;
+    color: #000;
+    opacity:.8;
+}
+
+
+
+/*
+==========
+RIGHT SIDE
+==========
+*/
+.top-list{
+    background-color: #ccc;
+    padding:20px;
+}
+h3.section-header{
+ /*     background: -webkit-linear-gradient(#7F17EA, #05abe0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;*/
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #000;
+  font-weight: 100;
+
+}
+
+
+
+
+.footer{
+    background-color:#1f1f1f;
+    margin-top:60px;
+    text-align: center;
+    color:#03a9f4;
+    padding-bottom:60px;
+}
+.footer img{
+    width:50px;
+}
+
+.well{
+    background-color: #fff;
+    border: 0;
+    padding:0;
+    padding-top:20px;
+}
+
+
+.media {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #555;
+    padding: 15px 0 30px 0;
+}
+
+
+
+
+
+
+/*
+MEDIA QUERIES
+ */
+
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+
+
+.dropdown-submenu {
+    position:relative;
+}
+.dropdown-submenu>.dropdown-menu {
+    top:0;
+    left:100%;
+    margin-top:-6px;
+    margin-left:-1px;
+    -webkit-border-radius:0 6px 6px 6px;
+    -moz-border-radius:0 6px 6px 6px;
+    border-radius:0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+    display:block;
+}
+.dropdown-submenu>a:after {
+    display:block;
+    content:" ";
+    float:right;
+    width:0;
+    height:0;
+    border-color:transparent;
+    border-style:solid;
+    border-width:5px 0 5px 5px;
+    border-left-color:#cccccc;
+    margin-top:5px;
+    margin-right:-10px;
+}
+.dropdown-submenu:hover>a:after {
+    border-left-color:#ffffff;
+}
+.dropdown-submenu.pull-left {
+    float:none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left:-100%;
+    margin-left:10px;
+    -webkit-border-radius:6px 0 6px 6px;
+    -moz-border-radius:6px 0 6px 6px;
+    border-radius:6px 0 6px 6px;
+}
