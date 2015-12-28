@@ -313,7 +313,7 @@ th {
 .glyphicon-search:before {
   content: "\e003";
 }
-.glyphicon-heart:before {
+.glyphicon-download:before {
   content: "\e005";
 }
 .glyphicon-star:before {
@@ -715,7 +715,7 @@ th {
 .glyphicon-paperclip:before {
   content: "\e142";
 }
-.glyphicon-heart-empty:before {
+.glyphicon-download-empty:before {
   content: "\e143";
 }
 .glyphicon-link:before {
@@ -4214,9 +4214,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   width: 22px;
   height: 2px;
   border-radius: 1px;
+  color: red;
+  border: 1px solid red;
 }
 .navbar-toggle .icon-bar + .icon-bar {
   margin-top: 4px;
+  border: 1px solid red;
 }
 @media (min-width: 768px) {
   .navbar-toggle {
