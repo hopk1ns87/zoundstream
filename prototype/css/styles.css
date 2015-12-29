@@ -57,6 +57,9 @@ body{
     border-right: 1px solid #ccc;
 }
 
+.border-left{
+    border-left: 1px solid #ccc;
+}
 
 /*
 lightgrey #D4E4F8
@@ -180,8 +183,8 @@ mid grey #41464c
     position: absolute;
     text-align: center;
     top:50%;
-    left: 50%;
-    margin: -45px 0 0 -179px;
+    width: 100%;
+    margin: -45px 0 0 0;
 }
 .logo-container img{
     height: 100%;
@@ -491,6 +494,12 @@ table h4{
 .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
     vertical-align: middle;
     }
+.stats{
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 5px 0px;
+}
 
 .parallax{
     background-image: url(../images/dj-bg.jpg);
@@ -574,7 +583,6 @@ ul.vertical-sub-menu, ul.vertical-sub-menu li{
 ul.vertical-sub-menu li a{
     display: block;
     border-bottom: 1px solid #ccc;
-    border-right: 1px solid #ccc;
     padding: 15px 0;
      transition: all 0.5s ease;
      text-decoration: none;
@@ -590,6 +598,18 @@ th {
 }
 .purple{
     color: #7f17ea;
+}
+.music-player{
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: #7f17ea;
+}
+.media-controls li{
+    display: inline-block;
+    color: #fff;
+    line-height: 50px;
 }
 
 .profile-pic img{

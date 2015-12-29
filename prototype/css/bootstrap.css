@@ -313,7 +313,7 @@ th {
 .glyphicon-search:before {
   content: "\e003";
 }
-.glyphicon-download:before {
+.glyphicon-circle-arrow-down:before {
   content: "\e005";
 }
 .glyphicon-star:before {
@@ -373,10 +373,10 @@ th {
 .glyphicon-road:before {
   content: "\e024";
 }
-.glyphicon-download-alt:before {
+.glyphicon-circle-arrow-down-alt:before {
   content: "\e025";
 }
-.glyphicon-download:before {
+.glyphicon-circle-arrow-down:before {
   content: "\e026";
 }
 .glyphicon-upload:before {
@@ -715,7 +715,7 @@ th {
 .glyphicon-paperclip:before {
   content: "\e142";
 }
-.glyphicon-download-empty:before {
+.glyphicon-circle-arrow-down-empty:before {
   content: "\e143";
 }
 .glyphicon-link:before {
